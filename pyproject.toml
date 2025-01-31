@@ -44,6 +44,7 @@ dependencies    = [
     "ciso8601==2.3.2",
     "cronsim==2.6",
     "fnv-hash-fast==1.2.2",
+    "greenlet==3.1.1",
     # hass-nabucasa is imported by helpers which don't depend on the cloud
     # integration
     "hass-nabucasa==0.88.1",

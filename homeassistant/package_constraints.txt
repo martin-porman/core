@@ -32,6 +32,7 @@ cryptography==44.0.0
 dbus-fast==2.30.2
 fnv-hash-fast==1.2.2
 go2rtc-client==0.1.2
+greenlet==3.1.1
 ha-ffmpeg==3.2.2
 habluetooth==3.17.0
 hass-nabucasa==0.88.1
